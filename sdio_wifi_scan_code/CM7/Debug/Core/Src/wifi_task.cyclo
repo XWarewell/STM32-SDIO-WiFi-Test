@@ -1,0 +1,10 @@
+../Core/Src/wifi_task.c:132:6:WiFiTask	3
+../Core/Src/wifi_task.c:193:6:wifi_scan	2
+../Core/Src/wifi_task.c:233:6:app_init	4
+../Core/Src/wifi_task.c:282:6:scan_check_bssid_in_list	2
+../Core/Src/wifi_task.c:310:6:scan_result_callback	7
+../Core/Src/wifi_task.c:361:13:security_to_str	41
+../Core/Src/wifi_task.c:439:13:print_ip4	1
+../Core/Src/wifi_task.c:464:6:wifi_connect	11
+../Core/Src/wifi_task.c:584:6:SDMMC1_IRQHandler	1
+../Core/Src/wifi_task.c:603:6:HAL_GPIO_EXTI_Callback	1

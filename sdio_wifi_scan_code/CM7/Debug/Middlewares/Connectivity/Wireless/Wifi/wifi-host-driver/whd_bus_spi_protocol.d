@@ -1,0 +1,4 @@
+Middlewares/Connectivity/Wireless/Wifi/wifi-host-driver/whd_bus_spi_protocol.o: \
+ G:/cy/AIROC-Wi-Fi-Bluetooth-STM32-master/Projects/STM32H747I-DISCO/Applications/wifi_scan/Middlewares/Third_Party/Infineon_Wireless_Connectivity/wifi-host-driver/COMPONENT_WIFI5/src/bus_protocols/whd_bus_spi_protocol.c \
+ ../Core/Inc/cybsp.h
+../Core/Inc/cybsp.h:

@@ -1,0 +1,4 @@
+G:/cy/AIROC-Wi-Fi-Bluetooth-STM32-master/Projects/STM32H747I-DISCO/Applications/wifi_scan/Middlewares/Third_Party/Infineon_Wireless_Connectivity/LwIP/src/api/netdb.c:87:1:lwip_gethostbyname	56	static
+G:/cy/AIROC-Wi-Fi-Bluetooth-STM32-master/Projects/STM32H747I-DISCO/Applications/wifi_scan/Middlewares/Third_Party/Infineon_Wireless_Connectivity/LwIP/src/api/netdb.c:162:1:lwip_gethostbyname_r	48	static
+G:/cy/AIROC-Wi-Fi-Bluetooth-STM32-master/Projects/STM32H747I-DISCO/Applications/wifi_scan/Middlewares/Third_Party/Infineon_Wireless_Connectivity/LwIP/src/api/netdb.c:236:1:lwip_freeaddrinfo	24	static
+G:/cy/AIROC-Wi-Fi-Bluetooth-STM32-master/Projects/STM32H747I-DISCO/Applications/wifi_scan/Middlewares/Third_Party/Infineon_Wireless_Connectivity/LwIP/src/api/netdb.c:269:1:lwip_getaddrinfo	88	static
